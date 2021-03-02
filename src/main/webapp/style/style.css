@@ -1,0 +1,215 @@
+/*Nav bar*/
+.btn-connexion
+{
+    background-color: #EDE8E2 ;
+    border-radius: 12px;
+    width :200px;
+    transition-duration: 0.4s;
+}
+ .btn-connexion:hover
+{
+    background-color: white;
+    border :solid black 1px;
+     
+
+}
+.nav-item
+{
+    padding: 30px 30px 30px 30px;
+}
+.btn-connexion
+{
+    background-color: #EDE8E2 ;
+    border-radius: 12px;
+    
+    transition-duration: 0.4s;
+    width :200px;
+}
+ .btn-connexion:hover
+{
+    background-color: white;
+    border :solid black 1px;
+     
+
+}
+.nav-item
+{
+    padding: 30px 30px 30px 30px;
+}
+/*Home body*/
+.contexte_text
+{
+    
+    width:50%;
+    height:500px;
+}
+.contexte_img
+{
+     
+    width:50%;
+    height:500px;
+}
+.contexte
+{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+}
+.contexte_text_title h1
+{
+    text-align: center;
+
+}
+.contexte_text_text p
+{
+    text-align: center;
+}
+.contexte_text div
+{
+    padding: 20px;
+}
+.contexte_text_btn p 
+{
+    text-align: center;
+}
+.btn-register ,.btn-expore
+{
+    background-color: #EDE8E2 ;
+    border-radius: 12px;
+    height:40px;
+    transition-duration: 0.4s;
+    border:none;
+}
+.btn-register
+{
+    width:250px;
+    
+}
+ .btn-expore
+{
+    width:100px;
+}
+
+.btn-register:hover , .btn-expore:hover
+{
+   background-color: black;
+   color:white;
+    
+}
+.contexte_img img
+{
+    width:400px;
+    height: 500px;
+    border :solid black 1px;
+     
+
+}
+.contexte_img p
+{
+    text-align: center;
+}
+.service
+{
+    width: 100%;
+    margin-top: 120px;
+    background-color:#FDFCF9 ;
+   
+}
+.service_bottom
+{
+    display: flex;
+}
+.service_bottom div
+{
+    width :33%;
+    margin :auto;
+}
+.service_text p
+{
+    text-align: center;
+    font-size: 21px;
+}
+.service_top p
+{
+    text-align: center;
+    font-size: 26px;
+     
+}
+.service_title p 
+{
+    text-align: center;
+    font-size: 21px;
+}
+.service_bottom_mid
+{
+    border-left :solid black 1px;
+    border-right :solid black 1px;
+}
+/*Home footer*/
+
+.barre
+{
+    width:190px;
+    background-color: black;
+    height:2px;
+}
+.footer
+{
+    margin-top:150px;
+    width:100%;
+    height: 250px;
+    background-color: #EDE8E2;
+    color:black;
+}
+.main_footer
+{
+    width:15%;
+    margin:auto;
+    padding: 15px;
+}
+.main_footer_social
+{
+    font-size: 32px;
+    text-align: center;
+    
+}
+.main_footer_social i
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.main_footer_text p 
+{
+    font-size: 15px;
+    font-family :sans-serif;
+}
+.copyright p
+{
+    text-align: center;
+}
+/*Table forum */
+
+  .top_table
+    {
+        background-color: burlywood;
+        color:black;
+        
+    }
+    .tableForm
+    {
+        width: 70%;
+        margin: auto;
+        text-align: center;
+    }
+    .formContainer
+    {
+        width:100%;
+    }
+    .tableForm th
+    {
+        height:fit-content;
+    }
+    .tableForm td
+    {
+       border: 1px dashed burlywood;
+    }
